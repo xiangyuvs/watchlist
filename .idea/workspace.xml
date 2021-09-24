@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="52e32e7a-a95b-468b-9079-281d978dfa48" name="Default Changelist" comment="" />
+    <list default="true" id="52e32e7a-a95b-468b-9079-281d978dfa48" name="Default Changelist" comment="">
+      <change beforePath="D:/PycharmProjects/watchlist/.idea/workspace.xml" beforeDir="false" afterPath="D:/PycharmProjects/watchlist/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="D:/PycharmProjects/watchlist" />
   </component>
   <component name="ProjectId" id="1yZ6VaFqMZnRhEmXLOJflkY03Cf" />
   <component name="ProjectViewState">
@@ -14,6 +19,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
@@ -48,6 +54,12 @@
       <updated>1632446787994</updated>
     </task>
     <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="169" key="SettingsEditor" timestamp="1632460687855">
+      <screen x="0" y="0" width="1920" height="1050" />
+    </state>
+    <state x="461" y="169" key="SettingsEditor/-1920.0.1920.1050/0.0.1920.1050@0.0.1920.1050" timestamp="1632460687855" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
